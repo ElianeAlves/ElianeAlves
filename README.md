@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Eliane Alves. 👋
 
-- 🔭 Hoje trabalho como Técnica em Hardware.
-- 🌱 Atualmente estudando Java.
+- 🔭 Desenvolvedora Front End.
+- 🌱 Angular, Typescript, Javascript, HTML, CSS, SCSS, Tailwind e Bootstrap.
 
 <div align="center">
   <a href="https://github.com/elianealves">
